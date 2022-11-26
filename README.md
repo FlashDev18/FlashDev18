@@ -1,2 +1,2 @@
-<img src="https://skillicons.dev/icons?i=html,js," />
+<img src="https://icons?i=html,js," />
 </a>
